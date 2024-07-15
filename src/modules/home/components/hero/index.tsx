@@ -3,7 +3,8 @@ import Link from "next/link"
 
 const Hero = () => {
   return (
-    <div className="flex flex-col min-h-dvh">
+    
+    <div className="flex flex-col min-h-dvh w-full px-10 md:px-28 ">
       <section className="w-full py-12 md:py-24 lg:py-32 border-b">
         <div className="container grid gap-6 lg:grid-cols-[1fr_550px] lg:gap-12 xl:grid-cols-[1fr_600px]">
           <div className="flex flex-col justify-center space-y-4">
@@ -34,7 +35,7 @@ const Hero = () => {
             </div>
           </div>
           <img
-            src="/placeholder.svg"
+            src="https://generated.vusercontent.net/placeholder.svg"
             width="600"
             height="600"
             alt="Dumbbell Stand"
@@ -103,7 +104,7 @@ const Hero = () => {
             <div className="grid w-full grid-cols-1 items-stretch justify-center divide-x md:grid-cols-3">
               <div className="mx-auto flex w-full flex-col items-center justify-center p-8 space-y-4">
                 <img
-                  src="/placeholder.svg"
+                  src="https://generated.vusercontent.net/placeholder.svg"
                   width="64"
                   height="64"
                   alt="Customer Avatar"
@@ -120,7 +121,7 @@ const Hero = () => {
               </div>
               <div className="mx-auto flex w-full flex-col items-center justify-center p-8 space-y-4">
                 <img
-                  src="/placeholder.svg"
+                  src="https://generated.vusercontent.net/placeholder.svg"
                   width="64"
                   height="64"
                   alt="Customer Avatar"
@@ -137,7 +138,7 @@ const Hero = () => {
               </div>
               <div className="mx-auto flex w-full flex-col items-center justify-center p-8 space-y-4">
                 <img
-                  src="/placeholder.svg"
+                  src="https://generated.vusercontent.net/placeholder.svg"
                   width="64"
                   height="64"
                   alt="Customer Avatar"
