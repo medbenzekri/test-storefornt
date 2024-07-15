@@ -115,8 +115,8 @@ const Hero = () => {
                   <p className="text-sm text-muted-foreground">Fitness Enthusiast</p>
                 </div>
                 <p className="text-sm text-muted-foreground">
-                  "These dumbbell stands have been a game-changer for my home\n gym. They're sturdy, adjustable, and
-                  really help keep my\n space organized."
+                &quot;These dumbbell stands have been a game-changer for my home\n gym. They&apos;re sturdy, adjustable, and
+                  really help keep my\n space organized.&quot;
                 </p>
               </div>
               <div className="mx-auto flex w-full flex-col items-center justify-center p-8 space-y-4">
@@ -132,8 +132,8 @@ const Hero = () => {
                   <p className="text-sm text-muted-foreground">Home Gym Owner</p>
                 </div>
                 <p className="text-sm text-muted-foreground">
-                  "I'm really impressed with the quality and design of these\n dumbbell stands. They've helped me
-                  maximize my workout space\n and keep my gym looking professional."
+                &quot;I&apos;m really impressed with the quality and design of these\n dumbbell stands. They&apos;ve helped me
+                  maximize my workout space\n and keep my gym looking professional.&quot;
                 </p>
               </div>
               <div className="mx-auto flex w-full flex-col items-center justify-center p-8 space-y-4">
@@ -149,8 +149,8 @@ const Hero = () => {
                   <p className="text-sm text-muted-foreground">Home Fitness Blogger</p>
                 </div>
                 <p className="text-sm text-muted-foreground">
-                  "These dumbbell stands are a must-have for any home gym. They\n look great, are super sturdy, and have
-                  made my workout space\n so much more organized."
+                &quot;These dumbbell stands are a must-have for any home gym. They\n look great, are super sturdy, and have
+                  made my workout space\n so much more organized.&quot;
                 </p>
               </div>
             </div>
